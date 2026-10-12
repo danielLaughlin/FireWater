@@ -1,0 +1,17 @@
+province,province_name,region
+341,Intermountain Semidesert and Desert Province,IM
+M341,Nevada-Utah Mountains Semidesert--Coniferous Forest--Alpine Meadow Province,IM
+342,Intermountain Semidesert Province,IM
+313,Colorado Plateau Semidesert Province,IM
+322,American Semidesert and Desert Province,IM
+M313,Arizona-New Mexico Mountains Semidesert-Open Woodland--Coniferous Forest--Alpine Meadow Province,RM
+M242,Cascade Mixed Forest--Coniferous Forest--Alpine Meadow Province,PNW
+242,Pacific Lowland Mixed Forest Province,PNW
+M262,California Coastal Range Open Woodland-Shrub-Coniferous Forest--Meadow Province,PSW
+M261,Sierran Steppe--Mixed Forest--Coniferous Forest--Alpine Meadow Province,PSW
+261,California Coastal Chaparral Forest and Shrub Province,PSW
+263,"California Coastal Steppe, Mixed Forest, and Redwood Forest Province",PSW
+262,California Dry Steppe Province,PSW
+M331,Southern Rocky Mountain Steppe--OpenWoodland--Coniferous Forest--Alpine Meadow Province,RM
+M332,Middle Rocky Mountain Steppe--Coniferous Forest--Alpine Meadow Province,RM
+M333,Northern Rocky Mountain Forest-Steppe--Coniferous Forest--Alpine Meadow Province,RM
